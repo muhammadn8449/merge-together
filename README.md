@@ -1,4 +1,1 @@
-this
-is
-some
-text
+# merge-together
